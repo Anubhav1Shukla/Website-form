@@ -1,0 +1,33 @@
+h1,h2{
+    text-align: center;
+    background-color: orange;
+    box-sizing:border-box ;
+    border: solid black ;
+    color: whitesmoke;
+    border-radius: 40px;
+    text-shadow: darkorange;
+    
+}
+h3,p{
+    text-align: initial;
+text-decoration: solid;
+color: black;
+}
+hr{
+    color:black;
+}
+h4{
+    color: red;
+
+}
+
+
+body{
+
+    background-image:url("lpu bg.png");
+    background-repeat: no-repeat;
+    background-size:1500px ;
+    background-attachment: scroll;
+    border: solid black;
+
+}

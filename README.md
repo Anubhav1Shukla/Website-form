@@ -1,2 +1,2 @@
 #### Website-form
-Technology used html css.this is very beautiful page 
+Technology used html css.this is very beautiful page.
